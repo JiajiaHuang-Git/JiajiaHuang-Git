@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Jiajia Huang
 
-- 🎓 I'm currently PhD student in Computational Physics @ HKUST
+- 🎓 I'm currently a PhD student in Computational Physics @ HKUST
 - 🌱 Interested in AI for Science | ML Molecular Dynamics | First-principles Spectroscopy
 - 💬 Can reach me at jhuangdd@connect.ust.hk 
 
