@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋 I'm Jiajia Huang
+
+- 🎓 I'm currently PhD student in Computational Physics @ HKUST
+- 🌱 Interested in AI for Science | ML Molecular Dynamics | First-principles Spectroscopy
+- 💬 Can reach me at jhuangdd@connect.ust.hk 
 
 <!--
 **JiajiaHuang-Git/JiajiaHuang-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
