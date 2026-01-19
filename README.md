@@ -2,6 +2,7 @@
 
 - 🎓 I'm currently a PhD student in Computational Physics @ HKUST
 - 🌱 Interested in AI for Science | ML Molecular Dynamics | First-principles Spectroscopy
+- 👯 Member of the [Ångström Group](https://angstrom.hkust.edu.hk/research.html)
 - 💬 Can reach me at jhuangdd@connect.ust.hk 
 
 <!--
